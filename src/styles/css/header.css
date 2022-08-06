@@ -1,0 +1,17 @@
+.header {
+  height: 100px;
+  background-color: black;
+  padding: 10px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header img {
+  max-width: 100px;
+  max-height: 100px;
+  object-fit: contain;
+}
+.header input {
+  height: 20px;
+  width: 200px;
+}
