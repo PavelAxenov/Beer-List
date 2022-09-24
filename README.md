@@ -23,6 +23,6 @@
 
 Для запуска проекта:
 
-1. Клонировать репозиторий git clone https://github.com/PavelAxenov/Pet_project_react.git
+1. Клонировать репозиторий git clone https://github.com/PavelAxenov/Beer-List.git
 2. Установить зависимости npm install
 3. Запустить проект npm run start
